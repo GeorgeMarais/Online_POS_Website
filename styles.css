@@ -15,7 +15,7 @@ header {
   flex-direction: row;
 }
 
-.nav {
+.menu {
   float: left;
   background-color: blue;
   width: 20%;
